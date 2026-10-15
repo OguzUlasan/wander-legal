@@ -1,6 +1,6 @@
 # Terms of Use — Wander
 
-**Last updated: 12 September 2026**
+**Last updated: 8 October 2026**
 
 ## Agreement
 

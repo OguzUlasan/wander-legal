@@ -1,6 +1,6 @@
 # Privacy Policy — Wander
 
-**Last updated: 12 September 2026**
+**Last updated: 8 October 2026**
 
 ## The short version
 
@@ -20,7 +20,7 @@ If you email us, we receive your message and address so we can reply.
 
 ## What we keep on our servers
 
-Wander creates a random anonymous account for you on Google Firebase the first time it runs. Under that id we store a copy of your finished sessions (start, end, focused minutes, mode, task label, trail), your Steps ledger, your streak freezes, your unlocks, your push-notification token if you allow notifications, and your block list. This copy is not optional — it is what restores your progress after a reinstall or when you sign in on a new phone, and it lets us compute group bonuses honestly.
+Wander creates a random anonymous account for you on Google Firebase the first time it runs. Under that id we store a copy of your finished sessions (start, end, focused minutes, mode, task label, trail) and of your Steps ledger — what you earned and what you spent, which is how your unlocks and bought streak freezes are rebuilt — plus your friend code, your push-notification token if you allow notifications, and your block list. This copy is not optional — it is what rebuilds your Steps, streak, badges and unlocks after a reinstall or when you sign in on a new phone, and it lets us compute group bonuses honestly. Your settings and your traveller’s nickname are not copied under your id; they stay on the device.
 
 A server-side recomputation of your Steps and streak may also be stored, so that what other travellers see in a group cannot be inflated by editing a device.
 
@@ -63,7 +63,7 @@ You can stop using groups and friends at any time; blocking a traveller is immed
 
 ## Deleting your data
 
-Profile → Data → Delete account & data erases everything on your device and asks our servers to remove your account and all the data listed above: sessions, Steps, unlocks, push token, block list, friend pairs, your invite codes, your group memberships and your presence. If your phone is offline the server step may not complete; the app will tell you, and you can email us to finish it.
+Profile → Data → Delete account & data erases everything on your device and asks our servers to remove your account and all the data listed above: sessions, Steps ledger, friend code, push token, block list, friend pairs, your invite codes, your group memberships and your presence. Your device is cleared only once our servers confirm; if they can’t be reached, nothing is deleted, the app tells you so, and you can try again or email us to finish it.
 
 What remains afterwards: moderation records (ids and a reason, no names), and purchase records held by Apple and RevenueCat under their own policies. Deleting the app also removes all locally stored data.
 
