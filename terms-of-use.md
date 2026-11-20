@@ -1,6 +1,6 @@
 # Terms of Use — Wander
 
-**Last updated: 8 October 2026**
+**Last updated: 20 November 2026**
 
 ## Agreement
 
@@ -27,7 +27,7 @@ Wander is anonymous-first: no sign-up is required. Your progress is stored on yo
 
 - Group journeys and friends let other travellers see the nickname you chose, your traveller and how your walk is going. Choose a nickname you are happy for others to see.
 - Be kind. Nicknames or behaviour that are abusive, hateful, sexual, threatening or that impersonate someone else are not allowed. We have no tolerance for objectionable content or abusive users.
-- You can block any traveller and report a group member from inside the app. We review reports promptly, typically within 24 hours, and may remove content, rename or remove a traveller, or end their access to community features.
+- You can block any traveller and report a group member or a friend from inside the app. We review reports promptly, typically within 24 hours, and may remove content, rename or remove a traveller, or end their access to community features.
 - Invite and friend codes are for the people you want to walk with; don’t post them publicly.
 
 ## Acceptable use

@@ -1,11 +1,11 @@
 # Privacy Policy — Wander
 
-**Last updated: 8 October 2026**
+**Last updated: 20 November 2026**
 
 ## The short version
 
 - You don’t need an account to use Wander. Signing in is optional and only for walking with friends.
-- Your focus sessions and progress live on your device. We also keep a copy under a random anonymous id, so a reinstall doesn’t lose your trail.
+- Your focus sessions and progress live on your device. We also keep a copy under a random anonymous id. If you sign in with Apple or Google, that copy follows you to a reinstall or a new phone; without signing in, deleting the app leaves the copy unreachable.
 - If you use groups or friends, other travellers see the nickname you chose, your traveller, and how your walk is going — never your name or email.
 - We use a small number of services to run the app (Google Firebase, RevenueCat, Apple, Expo, Sentry). We do not sell your data and we do not track you across other apps.
 - You can delete your account and everything we hold from inside the app.
@@ -20,7 +20,7 @@ If you email us, we receive your message and address so we can reply.
 
 ## What we keep on our servers
 
-Wander creates a random anonymous account for you on Google Firebase the first time it runs. Under that id we store a copy of your finished sessions (start, end, focused minutes, mode, task label, trail) and of your Steps ledger — what you earned and what you spent, which is how your unlocks and bought streak freezes are rebuilt — plus your friend code, your push-notification token if you allow notifications, and your block list. This copy is not optional — it is what rebuilds your Steps, streak, badges and unlocks after a reinstall or when you sign in on a new phone, and it lets us compute group bonuses honestly. Your settings and your traveller’s nickname are not copied under your id; they stay on the device.
+Wander creates a random anonymous account for you on Google Firebase the first time it runs. Under that id we store a copy of your finished sessions (start, end, focused minutes, mode, task label, trail) and of your Steps ledger — what you earned and what you spent, which is how your unlocks and bought streak freezes are rebuilt — plus your friend code, your push-notification token if you allow notifications, and your block list. This copy is not optional — it is what rebuilds your Steps, streak, badges and unlocks when you sign in after a reinstall or on a new phone, and it lets us compute group bonuses honestly. Your settings and your traveller’s nickname are not copied under your id; they stay on the device.
 
 A server-side recomputation of your Steps and streak may also be stored, so that what other travellers see in a group cannot be inflated by editing a device.
 
@@ -36,7 +36,7 @@ You can keep using every timer, streak, badge and stat feature without ever sign
 - Friends: when you pair with a friend by code, you both see each other’s nickname, traveller, shared streak and the small preset reactions (a wave, a campfire, a trail sign) you send each other. There is no free-text chat in Wander.
 - Travellers walking now: while you focus, an anonymous “focusing” flag under your id feeds a public count of how many travellers are walking right now. The count is a number; no one can see who is in it.
 - Invite and friend codes are short random codes that point to your group or your account; they contain no personal information.
-- Safety: you can block another traveller (they stop appearing for you) and report a group member. A report — your id, their id, the group id and the reason — is emailed to us and kept as a moderation record.
+- Safety: you can block another traveller (they stop appearing for you) and report a group member or a friend. A report — your id, their id, the group id if there is one, and the reason — is emailed to us and kept as a moderation record.
 
 ## Collected automatically
 
@@ -49,7 +49,7 @@ We do not collect your precise location, contacts, photos, microphone audio or h
 
 ## Who processes data for us
 
-Google Firebase (authentication, database, realtime presence, analytics, cloud functions and an email extension that forwards reports to us), RevenueCat (subscription status), Apple (in-app purchases and the App Store), Expo (push notification delivery) and Sentry (crash reports). Each processes data on our behalf under its own terms and may do so outside your country. We do not sell your data or share it for third-party advertising.
+Google Firebase (authentication, database, realtime presence, analytics, cloud functions and an email extension that forwards reports to us), RevenueCat (subscription status), Apple (in-app purchases and the App Store), Expo (push notification delivery and app updates) and Sentry (crash reports). Each processes data on our behalf under its own terms and may do so outside your country. We do not sell your data or share it for third-party advertising.
 
 ## Retention
 
