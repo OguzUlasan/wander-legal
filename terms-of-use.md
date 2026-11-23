@@ -1,6 +1,6 @@
 # Terms of Use — Wander
 
-**Last updated: 20 November 2026**
+**Last updated: 23 November 2026**
 
 ## Agreement
 
@@ -59,7 +59,7 @@ These Terms are governed by the laws of the Republic of Türkiye, without limiti
 
 ## Contact
 
-Oğuz Ulaşan — oguzulasan@gmail.com
+Oğuz Ulaşan — hello@mythapps.com
 
 ---
 

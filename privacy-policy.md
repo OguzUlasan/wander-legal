@@ -1,6 +1,6 @@
 # Privacy Policy — Wander
 
-**Last updated: 20 November 2026**
+**Last updated: 23 November 2026**
 
 ## The short version
 
@@ -77,7 +77,7 @@ Wander is made and operated from Türkiye by Oğuz Ulaşan, who is the data cont
 
 ## Contact
 
-Oğuz Ulaşan — oguzulasan@gmail.com
+Oğuz Ulaşan — hello@mythapps.com
 
 ---
 

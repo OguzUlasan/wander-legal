@@ -1,6 +1,6 @@
 # Wander — Support
 
-**Email:** [oguzulasan@gmail.com](mailto:oguzulasan@gmail.com?subject=Wander) — we usually reply within a day.
+**Email:** [hello@mythapps.com](mailto:hello@mythapps.com?subject=Wander) — we usually reply within a day.
 
 ## Common questions
 
